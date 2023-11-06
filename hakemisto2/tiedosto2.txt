@@ -1,3 +1,5 @@
 Tämä on tiedosto 2.
 
 Tämä rivi ei ollut tässä alun perin.
+
+Tämä on muutos, jonka haluan pitää.
