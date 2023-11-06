@@ -1,1 +1,3 @@
+Tämä rivi ei ollut tässä alun perin.
+
 Tämä on tiedosto 1.
