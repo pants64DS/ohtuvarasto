@@ -50,6 +50,7 @@ def tulosta_ota_varastosta(mehua, olutta):
     print(f"Mehuvarasto: {mehua}")
 
 def main():
+    # --------------------------------------------------------------- Tämä on liaan pitkä rivi -----------------------------------------------------------------------
     mehua = Varasto(100.0)
     olutta = Varasto(100.0, 20.2)
 
