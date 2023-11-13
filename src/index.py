@@ -50,7 +50,9 @@ def tulosta_ota_varastosta(mehua, olutta):
     print(f"Mehuvarasto: {mehua}")
 
 def main():
-    mehua = Varasto(100.0)
+
+    mehua____________mutta____________jolla____________onkin____________liian____________pitka____________nimi = Varasto(100.0)
+    mehua = mehua____________mutta____________jolla____________onkin____________liian____________pitka____________nimi
     olutta = Varasto(100.0, 20.2)
 
     print("Luonnin jälkeen:")
